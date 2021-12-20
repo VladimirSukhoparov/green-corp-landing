@@ -55,6 +55,7 @@ button{
   background: url('img/back.png') no-repeat;
   background-position: center;
   background-size: cover;
+  overflow: hidden;
 }
 .about h1{
   font-size: 70px;
@@ -238,4 +239,12 @@ footer{
   .form__containter{
       padding: 10px;
   }
+}
+.animate__fadeInRight{
+  animation-duration: 2s;
+  opacity: 0;
+}
+.animate__fadeInLeft{
+  animation-duration: 2s;
+  opacity: 0;
 }
