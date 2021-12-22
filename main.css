@@ -233,4 +233,10 @@ footer{
       flex-direction: column-reverse;
       padding: 50px 10px;
   }
+  .footer__container {
+      flex-direction: column;
+  }
+  .form__containter{
+      padding: 10px;
+  }
 }
