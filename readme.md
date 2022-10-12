@@ -1,6 +1,6 @@
 # Лендинг одностраничного сайта
 
-Посмотреть можно тут: https://vladimir-sukhoparov.github.io/green-corp-landing/
+Посмотреть можно тут: https://vladimirsukhoparov.github.io/green-corp-landing/
 
 ![screenshot](./readme-assets/home.png)
 
