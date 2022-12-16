@@ -1,10 +1,10 @@
-# Лендинг одностраничного сайта
+# Landing page of a SPA
 
-Посмотреть можно тут: https://vladimirsukhoparov.github.io/green-corp-landing/
+You can see it here: https://vladimirsukhoparov.github.io/green-corp-landing/
 
 ![screenshot](./readme-assets/home.png)
 
-Это учебный проект, где показаны знания HTML, CSS, JS и анимации Canvas.
+This project demonstrates my knowledge of HTML, CSS, JS and Canvas animation.
 
 ![screenshot](./readme-assets/static.png)
 
